@@ -17,3 +17,5 @@ hello git   hot-fix test
 1111111
 2222222  by lhc
 3333333  by dongfang
+
+利用ssh协议将本地库代码上传到远程库
